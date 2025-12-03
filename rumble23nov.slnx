@@ -1,8 +1,9 @@
 ﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Assembly-CSharp-firstpass.csproj" />
   <Project Path="GaiaCore.csproj" />
   <Project Path="Assembly-CSharp-Editor-firstpass.csproj" />
-  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
   <Project Path="GaiaEditor.csproj" />
+  <Project Path="RpgQuest.Gameplay.Runtime.csproj" />
 </Solution>
