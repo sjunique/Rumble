@@ -1,0 +1,369 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58680399239671a4c9ac33d265ca999d, type: 3}
+  m_Name: GRCControllerSupport
+  m_EditorClassIdentifier: Assembly-CSharp::Gaia.GRCControllerSupport
+  m_unfolded: 1
+  m_isActive: 1
+  m_helpEnabled: 0
+  m_orderNumber: 100
+  m_helpLinkStyle:
+    m_Name: 
+    m_Normal: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_Hover: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_Active: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_Focused: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_OnNormal: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_OnHover: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_OnActive: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_OnFocused: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_Border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Margin:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Padding:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Overflow:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Font: {fileID: 0}
+    m_FontSize: 0
+    m_FontStyle: 0
+    m_Alignment: 0
+    m_WordWrap: 0
+    m_RichText: 1
+    m_TextClipping: 0
+    m_ImagePosition: 0
+    m_ContentOffset: {x: 0, y: 0}
+    m_FixedWidth: 0
+    m_FixedHeight: 0
+    m_StretchWidth: 1
+    m_StretchHeight: 0
+  m_helpBoxStyle:
+    m_Name: 
+    m_Normal: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_Hover: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_Active: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_Focused: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_OnNormal: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_OnHover: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_OnActive: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_OnFocused: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+}
+    m_Border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Margin:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Padding:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Overflow:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Font: {fileID: 0}
+    m_FontSize: 0
+    m_FontStyle: 0
+    m_Alignment: 0
+    m_WordWrap: 0
+    m_RichText: 1
+    m_TextClipping: 0
+    m_ImagePosition: 0
+    m_ContentOffset: {x: 0, y: 0}
+    m_FixedWidth: 0
+    m_FixedHeight: 0
+    m_StretchWidth: 1
+    m_StretchHeight: 0
+  m_selectedControllerType: 3
+  m_activateTouchUI: 0
+  m_addLocationSystem: 1
+  m_addAudioManager: 1
+  m_customAdjustDrawDistance: 1
+  m_customSetupPostProcessing: 1
+  m_addVFXManager: 0
+  m_customCharacter: {fileID: 0}
+  m_customCamera: {fileID: 0}
+  m_controllerSettings: {fileID: 11400000, guid: b6f7fa3fbb22f7545912b9ac2008ba2a, type: 2}
+  m_touchUILabel:
+    m_Text: Activate Touch UI
+    m_Image: {fileID: 0}
+    m_Tooltip: Activate UI controls for mobile devices with a touch screen.
+    m_TextWithWhitespace: "Activate Touch UI\u200B"
+  m_locationSystemLabel:
+    m_Text: Add Location System
+    m_Image: {fileID: 0}
+    m_Tooltip: Adds a script to the camera that allows you to bookmark locations
+      in the Location Manager.
+    m_TextWithWhitespace: "Add Location System\u200B"
+  m_AudioManagerLabel:
+    m_Text: Add Audio Manager
+    m_Image: {fileID: 0}
+    m_Tooltip: Adds a script to the camera that tracks and enables audio sources
+      spawned by Gaia.
+    m_TextWithWhitespace: "Add Audio Manager\u200B"
+  m_adjustDrawDistanceLabel:
+    m_Text: Adjust Draw Distance
+    m_Image: {fileID: 0}
+    m_Tooltip: Increases the draw distance on the camera to make sure all relevant
+      elements in the scene are being drawn.
+    m_TextWithWhitespace: "Adjust Draw Distance\u200B"
+  m_setupPostProcessingLabel:
+    m_Text: Setup Post Processing
+    m_Image: {fileID: 0}
+    m_Tooltip: Sets up Post Processing on the camera so Post Fx are rendered on it
+      correctly.
+    m_TextWithWhitespace: "Setup Post Processing\u200B"
+  m_controllerDropdownLabel:
+    m_Text: Controller Type
+    m_Image: {fileID: 0}
+    m_Tooltip: Select the type of controller you want to add to your scene.
+    m_TextWithWhitespace: "Controller Type\u200B"
+  m_customCharacterLabel:
+    m_Text: Custom Character
+    m_Image: {fileID: 0}
+    m_Tooltip: Put your character from the scene into this slot. If there is no dedicated
+      character, you can usually assign the camera object in here. All the necessary
+      settings and references will then be automatic applied when you create runtime.
+    m_TextWithWhitespace: "Custom Character\u200B"
+  m_customCameraLabel:
+    m_Text: Custom Camera
+    m_Image: {fileID: 0}
+    m_Tooltip: Put your main camera from the scene into this slot. All the necessary
+      settings and references will then be automatic applied when you create runtime.
+    m_TextWithWhitespace: "Custom Camera\u200B"
+  m_firstPersonControllerLink:
+    m_Text: Starter Assets - First Person Character Controller
+    m_Image: {fileID: 0}
+    m_Tooltip: Opens the Unity Asset Store
+    m_TextWithWhitespace: "Starter Assets - First Person Character Controller\u200B"
+  m_thirdPersonControllerLink:
+    m_Text: Starter Assets - Third Person Character Controller
+    m_Image: {fileID: 0}
+    m_Tooltip: Opens the Unity Asset Store
+    m_TextWithWhitespace: "Starter Assets - Third Person Character Controller\u200B"
+  m_generalHelpLink:
+    m_Text: Controller Support Module on Canopy
+    m_Image: {fileID: 0}
+    m_Tooltip: Opens the Canopy Online Help Article for the Controller Support Module
+    m_TextWithWhitespace: "Controller Support Module on Canopy\u200B"
+  m_linkStyle:
+    m_Name: label
+    m_Normal: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 1
+        g: 1
+        b: 1
+        a: 1
+}
+    m_Hover: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0.8235294
+        g: 0.8235294
+        b: 0.8235294
+        a: 1
+}
+    m_Active: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0.8235294
+        g: 0.8235294
+        b: 0.8235294
+        a: 1
+}
+    m_Focused: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0.8235294
+        g: 0.8235294
+        b: 0.8235294
+        a: 1
+}
+    m_OnNormal: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0.8235294
+        g: 0.8235294
+        b: 0.8235294
+        a: 1
+}
+    m_OnHover: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0.8235294
+        g: 0.8235294
+        b: 0.8235294
+        a: 1
+}
+    m_OnActive: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 0.8235294
+        g: 0.8235294
+        b: 0.8235294
+        a: 1
+}
+    m_OnFocused: {m_Background: {fileID: 0}, m_ScaledBackgrounds: []
+, m_TextColor:
+        r: 1
+        g: 1
+        b: 1
+        a: 1
+}
+    m_Border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Margin:
+      m_Left: 4
+      m_Right: 4
+      m_Top: 2
+      m_Bottom: 2
+    m_Padding:
+      m_Left: 2
+      m_Right: 2
+      m_Top: 1
+      m_Bottom: 1
+    m_Overflow:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    m_Font: {fileID: 0}
+    m_FontSize: 12
+    m_FontStyle: 0
+    m_Alignment: 3
+    m_WordWrap: 0
+    m_RichText: 0
+    m_TextClipping: 1
+    m_ImagePosition: 0
+    m_ContentOffset: {x: 0, y: 0}
+    m_FixedWidth: 0
+    m_FixedHeight: 0
+    m_StretchWidth: 0
+    m_StretchHeight: 0
+  m_panelLabel:
+    m_Text: Controller Support
+    m_Image: {fileID: 0}
+    m_Tooltip: Add Unity's first person or third person controller into the scene,
+      or configure your own.
+    m_TextWithWhitespace: "Controller Support\u200B"

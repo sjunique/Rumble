@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Action
+  - AutoCrouch
+  - Ragdoll
+  - Ignore Ragdoll
+  - Boss
+  - Enemy
+  - CompanionAI
+  - Weapon
+  - LookAt
+  - Dirt
+  - Wood
+  - Metal
+  - Concrete
+  - Glass
+  - Water
+  - LadderTrigger
+  - ExitWater
+  - Barrel
+  - FreeClimb
+  - ClimbDirection
+  - Zipline
+  - PlayerUI
+  - Collectable
+  - CoverPoint
+  - Interactable
+  - AIAction
+  - PW - Nature
+  - FirePoint
+  - Critical
+  - Weapons
+  - Ramp
+  - BodyShot
+  - Ladder
+  - CarRoot
+  - Collectible
+  - AutoPilot
+  - ReturnPath
+  - PW - Prop
+  - PW - Building
+  - Effects
+  - PlayerEyes
+  - QuestPath
+  - MainMenuRoot
+  - Icon
+  - RespawnPoint
+  - LeashZone
+  - AI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Boundary
+  - Player
+  - Enemy
+  - CompanionAI
+  - Triggers
+  - StopMove
+  - Ground
+  - HeadTrack
+  - BodyPart
+  - BlockAIRayCast
+  - Pushable
+  - CoverPoint
+  - Weapons
+  - Object
+  - Interactable
+  - Grass
+  - Metal
+  - Mud
+  - Wood
+  - UITop
+  - PostProcessing
+  - Effects
+  - LeashZone
+  - 
+  - PostProcess
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,72 @@
+# Unity standard ignores
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.sln
+*.csproj
+*.unityproj
+*.tmp
+*.temp
+*.bak
+*.orig
+*.cache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore per-project generated Addressables build outputs and SBP caches
+/Library/com.unity.addressables/
+/Library/com.unity.scriptablebuildpipeline/
+/ServerData/
+/AddressablesPlayerData/
+
+# Keep Addressables asset settings tracked (do NOT ignore the core settings)
+# Assets/AddressableAssetsData/AddressableAssetSettings.asset should remain tracked.
+
+# Ignore build output folders
+/Build/
+/Builds/
+
+# ignore Node / npm if present
+node_modules/
+
+# Local/debug/temp folders
+/Assets/TempAssets/
+/Assets/StreamingAssets/Generated/
+
+# allow local OS cache (user's home)
+~/.cache/unity3d/
+
+# End of .gitignore
+
+# Exclude large 3rd-party asset folders (project-specific)
+/Assets/Procedural Worlds/
+/Assets/Fantasy Treasure Chest_Standard/
+/Assets/Invector-3rdPersonController/
+/Assets/Invector-AIController/
+/Assets/Invector-FSMAIController/
+/Assets/_downloadedassets/
+/Assets/Rumble/RumbleFBX/

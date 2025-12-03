@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Environment
+  m_EditorClassIdentifier: 
+  m_GroupName: Environment
+  m_GUID: 7bc60ac613321e8d88eb0ff62026a74e
+  m_SerializeEntries:
+  - m_GUID: 3bcbf5e15c1e8f5dea0c87a2ed709d04
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/Environment/AzureEnvironment.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - azureenvironment
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d52bbdcb93e7fe58868229fcf63f84c
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/Environment/Enchanted.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - enchantedenvironment
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 792b820a5867408a5a81fe3eb6c9bd8a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 165a1a960a4b2bed0b299e17a2dff018, type: 2}
+    - {fileID: 11400000, guid: 69e89c355dd8b506b924921e601e5d43, type: 2}

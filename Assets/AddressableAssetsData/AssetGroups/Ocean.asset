@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Ocean
+  m_EditorClassIdentifier: 
+  m_GroupName: Ocean
+  m_GUID: d07e896f8247c7ff8941d39368d9acc0
+  m_SerializeEntries:
+  - m_GUID: 1495a9d1e0d1bd84b8b329e70f5b6a17
+    m_Address: Assets/Rumble/myfbx/PREFABAS/aurora.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Aurora
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ffd40e804e1b19d59ef442a2c7c2532
+    m_Address: Assets/Rumble/myfbx/PREFABAS/rainbowreef.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - RainbowReef
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 366c2a11c5fad1e0789c661c085516c8
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/SceneGo/OceanCorals.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OceanCorals
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 927b7e6765b65f7fd85180153b42c504
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/SceneGo/FishBoid.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FishBoid
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99974273e009dfb05a71cbcc771acb91
+    m_Address: Assets/Rumble/myfbx/whispheringeef.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WhisperingReef
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 792b820a5867408a5a81fe3eb6c9bd8a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d5b81c69caf8f666a9e33dab2286ca0e, type: 2}
+    - {fileID: 11400000, guid: d98caf0549ab1f8eca62e54b38cecd35, type: 2}

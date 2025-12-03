@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Gamescenes
+  m_EditorClassIdentifier: 
+  m_GroupName: Gamescenes
+  m_GUID: 407f658b29f3e2ccea66780fd1cad3c2
+  m_SerializeEntries:
+  - m_GUID: 6bcc6ce6bb288a6b5b37e0ac53d54a61
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/ScenesLevels/level_01_azurenature.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level_2_Azure
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d5e80e856688610f95578c8416e7425
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/ScenesLevels/Level_0_Main.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level_0_Main
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f044f60d9cf5d69793be1bb28b8967d
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/ScenesLevels/Level_01_Enchanted.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level_1_Enchanted
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96bd77a360ea3f53ea60405b99439409
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/ScenesLevels/level_01_plains.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level_1_Plains
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8b22a00731360d0c96ba630de9ff8fc
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/ScenesLevels/level_04_plains.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level_04_Plains
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 792b820a5867408a5a81fe3eb6c9bd8a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3cf09e0c380eb6ae99d7c3da7296b438, type: 2}
+    - {fileID: 11400000, guid: 5a200029ad5e6e5d1bf73890e8776025, type: 2}

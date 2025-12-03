@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scenes.Ui
+  m_EditorClassIdentifier: 
+  m_GroupName: Scenes.Ui
+  m_GUID: 28f0a74959ff849f7ba342682f980d46
+  m_SerializeEntries:
+  - m_GUID: 2be17d8d0b00d40ad8465b7a1796feb3
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/ScenesLevels/FinalSelectionScreenMenu.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SelectionScreen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6993544419184a365b927bab06304363
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/ScenesLevels/MainMenu.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MainMenu
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8098c5a9a25c1a6c6a31469e303bd754
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/ScenesLevels/LevelSelectionMenu.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LevelSelection
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be2857e687dff93c5b0c2fff6c41d2fe
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/ScenesLevels/PauseMenu_UITK.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PauseMenu
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 792b820a5867408a5a81fe3eb6c9bd8a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a40530a804ec75512be1e8d74a55f3d2, type: 2}
+    - {fileID: 11400000, guid: 2cf56f23c191a3cac85596e8996b1359, type: 2}

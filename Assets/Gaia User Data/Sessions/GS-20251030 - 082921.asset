@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20251030 - 082921
+  m_EditorClassIdentifier: GaiaCore::Gaia.GaiaSession
+  m_name: Session 20251030-082921
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 30-10-2025 08:29:21
+  m_terrainWidth: 1024
+  m_terrainDepth: 1024
+  m_terrainHeight: 1024
+  m_seaLevel: 25
+  m_spawnDensity: 0.6
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20251030 - 082922
+    m_operationDateTime: 30-10-2025 08:29:22
+    scriptableObjectAssetGUID: 2b41d7d48453f5ecf8764dc40041cf16
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 4k Hills 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20251030 - 082922
+    m_operationDateTime: 30-10-2025 08:31:10
+    scriptableObjectAssetGUID: 9410cadc2204775f595da045d799f301
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Giant Forest-Textures Part 1(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20251030 - 082922
+    m_operationDateTime: 30-10-2025 08:31:12
+    scriptableObjectAssetGUID: 00a09e739709179c2ab07ff32bfe3ade
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20251030 - 082922
+    m_operationDateTime: 30-10-2025 08:32:07
+    scriptableObjectAssetGUID: 0bc8d36acad8d1b7483aab4fe4187e16
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - 4k Hills 2
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20251030 - 082922
+    m_operationDateTime: 30-10-2025 08:34:06
+    scriptableObjectAssetGUID: 30679c72e99b67794937334a766412c4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Giant Forest-Textures Part 1(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20251030 - 082922
+    m_operationDateTime: 30-10-2025 08:34:08
+    scriptableObjectAssetGUID: c04e03bc2fd4ba66eb8038c0dfd26f80
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20251030 - 082922
+    m_operationDateTime: 30-10-2025 08:34:22
+    scriptableObjectAssetGUID: 11cffde3470075c66844a98d2a4d3343
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 20bf4aaf7bd022df6ae2dd4a92232aec
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 1024
+  m_bakedMaskCacheEntries: []
+  m_worldBiomeMaskSettings: {fileID: 0}

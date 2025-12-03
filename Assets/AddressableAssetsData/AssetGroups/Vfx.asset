@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Vfx
+  m_EditorClassIdentifier: 
+  m_GroupName: Vfx
+  m_GUID: 8befb7a92418e19599c50ea15b069ced
+  m_SerializeEntries:
+  - m_GUID: 43f9fe5e6ea8bc43bba4f5b6151dae99
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/Environment/AzureFx.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AzureFx
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5100d573b3eaacc1180ffb44d7bc03a2
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/Environment/FoliageEffectsGo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FoliageFx
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8aeb2e7c17a514a05bfd0e1276750729
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/Environment/FX_GraysGo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GraysGO
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae83091ac1ab8250aa661e374257138d
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/Environment/Mystical_Flowered_Plant_loot.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LootBeaconTwo
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f05938146131a4032b06c41f6ec282a9
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/Collectibles/CollectibleBeacon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LootBeacon
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 792b820a5867408a5a81fe3eb6c9bd8a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6bfeb0cc10cdf5b90985f2bb962080c5, type: 2}
+    - {fileID: 11400000, guid: 2ed5e8005c133c940ac5abba83f251af, type: 2}

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Players
+  m_EditorClassIdentifier: 
+  m_GroupName: Players
+  m_GUID: 1d1f620f6bde9775abdfddd40220e693
+  m_SerializeEntries:
+  - m_GUID: 05bb7e7f46f8fd727a9731cbe64c23ce
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/characters/vShooterController_Jennifer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Jennifer
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3646799f449838b1686ccd8c97a4cc8e
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/characters/VKachujin_Shooter
+      G Rosales.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Kachujin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 721e58a3e1798c8168c6c34c1deba66e
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/Fsmai-compantion/AI_Ganfaul M Aure.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - C_Ganfaul
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa7710112c8c831acb7dbab8c41a1094
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/characters/EveNewvShooterController_Eve.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Eve
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d085e30751fba65f480fade920eba832
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/SceneGo/ButterFlyBOIDS
+      1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ButterFlyBoids
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d32e73d979895f67086f07e3cd10c961
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/characters/vShooterController_RFA_Model.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Medea
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 792b820a5867408a5a81fe3eb6c9bd8a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c7c0c0261c41e14d59040486135e99a5, type: 2}
+    - {fileID: 11400000, guid: 8cb3ebf9132532581a93a87ee42870bf, type: 2}

@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EnemyAI
+  m_EditorClassIdentifier: 
+  m_GroupName: EnemyAI
+  m_GUID: 217b792ac4a9e06d7a854d1a390cabed
+  m_SerializeEntries:
+  - m_GUID: 05258b0116c14cafda18333473f1a053
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI_VamipireONe.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - E_Vampireone
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14522bf5a0ae9e2a3a687640fb595f5a
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI_Skeletonzombie T Avelange.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - E_Zombie
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21e7d2e2480872452af3038fc1e1f8ae
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI_Knight D Pelegrini.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - C_Knight
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38ef9a7554a01d702bd2088bf7ecfe9c
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI_Maw J Laygo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - E_Maw
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ba68605b738773d8a08b5faa654cf85
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI_Mutant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - E_Mutant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57287675e3cf5d781bebeb4fb5d6de53
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI_RedNpc.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - E_Rednpc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5896bc18011c408f8bd7c206eeb910c4
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI_Orc_Boss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - E_Orc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6788e0f10d0dcaca3868856e13571788
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI_unitypaladix.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - E_Paladin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6eb47d52e45e30330857b40282e705a8
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI - Shooter_a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - E_Shooter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6b9f7d4b4217fa9ca3ccb24f3188c36
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/Fsmai-compantion/AI_Pirate By P. Konstantinov.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - C_Pirate
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7144799914ffa85ca8c338e099d7d4f
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI_vampireTwo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - E_Vampire
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d693fafb1116cc75daa8e50b386fdcb1
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI_Nightshade J Friedrich.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - E_NightShade
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f89236f71cc0a9eab8246b62fb57017d
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI_warrioruv.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - E_Warrior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb9f7f4024a394b0db8137d6bc70e97f
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsmai-enemy/AI_Pumpkinhulk L Shaw.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - E_Pumpkin
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 792b820a5867408a5a81fe3eb6c9bd8a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 73ae4d972d2db58bd899714321e642d7, type: 2}
+    - {fileID: 11400000, guid: 05d62e96533e0016384acd57a3088b25, type: 2}

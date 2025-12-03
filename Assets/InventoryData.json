@@ -1,0 +1,98 @@
+{
+    "itemReferences": [
+        {
+            "amount": 1,
+            "id": 12,
+            "attributes": [
+                {
+                    "name": 2,
+                    "value": 50,
+                    "isOpen": false,
+                    "isBool": false
+                },
+                {
+                    "name": 6,
+                    "value": 8,
+                    "isOpen": false,
+                    "isBool": false
+                }
+            ]
+        },
+        {
+            "amount": 1,
+            "id": 10,
+            "attributes": [
+                {
+                    "name": 2,
+                    "value": 36,
+                    "isOpen": false,
+                    "isBool": false
+                },
+                {
+                    "name": 6,
+                    "value": 8,
+                    "isOpen": false,
+                    "isBool": false
+                }
+            ]
+        },
+        {
+            "amount": 1,
+            "id": 17,
+            "attributes": []
+        }
+    ],
+    "equipAreas": [
+        {
+            "slotsData": [
+                {
+                    "hasItem": true,
+                    "indexOfItem": 0
+                },
+                {
+                    "hasItem": true,
+                    "indexOfItem": 1
+                },
+                {
+                    "hasItem": false,
+                    "indexOfItem": 0
+                }
+            ],
+            "indexOfSelectedSlot": 0
+        },
+        {
+            "slotsData": [
+                {
+                    "hasItem": false,
+                    "indexOfItem": 0
+                },
+                {
+                    "hasItem": false,
+                    "indexOfItem": 0
+                },
+                {
+                    "hasItem": false,
+                    "indexOfItem": 0
+                }
+            ],
+            "indexOfSelectedSlot": 0
+        },
+        {
+            "slotsData": [
+                {
+                    "hasItem": false,
+                    "indexOfItem": 0
+                },
+                {
+                    "hasItem": false,
+                    "indexOfItem": 0
+                },
+                {
+                    "hasItem": false,
+                    "indexOfItem": 0
+                }
+            ],
+            "indexOfSelectedSlot": 0
+        }
+    ]
+}

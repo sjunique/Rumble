@@ -1,0 +1,277 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: DuplicateSharedGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: DuplicateSharedGroup
+  m_GUID: d1055eeb2a1340ca1b0da2812916218f
+  m_SerializeEntries:
+  - m_GUID: 013be49405471e32cb856c211edfd0fc
+    m_Address: Assets/Rumble/myfbx/aurora.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05b99411b9c787247a373e132cd3c459
+    m_Address: Assets/Invector-3rdPersonController/Add-ons/Parachute/Anims/Parachuting_Back.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d77157a83a8247db9ce5805ea8c3976
+    m_Address: Assets/_downloadedassets/Inguz Media Studio/The Beautiful Portals
+      VFX/Sprites/Rocks_formation_01_texture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d6e640e716dc4ff6989b73d02023f2b
+    m_Address: Packages/com.unity.cinemachine/Runtime/Input/CinemachineDefaultInputActions.inputactions
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f71f5392cedf064dbd51eafe081c519
+    m_Address: Assets/Invector-3rdPersonController/Add-ons/Parachute/Anims/Parachuting_Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26f295dfd04134d89880022471fb5385
+    m_Address: Assets/_downloadedassets/Inguz Media Studio/The Beautiful Portals
+      VFX/Mesh/Rocks_formation.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27b0f76830d4c1e4eaf154e507a48b0e
+    m_Address: Assets/Invector-FSMAIController/FSM/FSM Behaviours/FSM_Melee.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ba3d4484a5881f4c9f7a19acf133a59
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/vSniper01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2dc475060d096484fa2b0e41cae40c1e
+    m_Address: Assets/Invector-3rdPersonController/Add-ons/Parachute/Anims/Parachuting_Open.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e80d77ec89f2cb2c8ff7b78f38221d6
+    m_Address: Assets/Scripts/System/SelectionState.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36e335017ad71d54fbb10842863188ae
+    m_Address: Packages/com.unity.render-pipelines.core/Runtime/RenderPipelineResources/FallbackShader.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e0b60810bebf8240b09c8206b25d082
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/Animation/Invector_Shotgun.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 490fe9fed08f1be47bca52c0863df243
+    m_Address: Assets/Invector-3rdPersonController/Add-ons/Parachute/Anims/Parachuting_Left.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b0f1aaef5109327680f1afab3a2a582
+    m_Address: Assets/Rumble/MyShader/Leaves_Gradient_Windy_URP Leaves_Gradient_Windy_URP.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f40922fa4f66bc4fbc281d0cd575187
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Animations/NewRollv2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50a4794be16474ca8bc5cd73cae90c39
+    m_Address: Assets/_downloadedassets/Inguz Media Studio/The Beautiful Portals
+      VFX/Materials/ForceShielPattern.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 537539c32a6167248b7005fa8612f575
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/BulletLifeSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57a37d0f9faed714d9a3eedc6907bd5f
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/Animation/PumpAction.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f2b686adeb8b4e499b250e99781cc9f
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Animations/WeakAttack_UnarmedB_v2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 646ac0f1fa2fbf770a5c5ccaacdea6f8
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsnuaufbx/knightshade/Nightshade J Friedrich.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fc06194db8174070be877fddb319f43
+    m_Address: Assets/_downloadedassets/Inguz Media Studio/The Beautiful Portals
+      VFX/Sprites/Dust_dark.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76ee9eee966307a46a2e9392c05955fc
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/assaultRifle01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78f7f32d0ac256f479929db258d3d078
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/vShotgun-detach.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a701710b904eaa4e87a3391cabbf285
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/handgun01.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7eef56fd00ee74deb94853222335d57b
+    m_Address: Assets/_downloadedassets/Inguz Media Studio/The Beautiful Portals
+      VFX/Materials/Dust_dark.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8616a8d80006bfb4d9069ea692c278da
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/CharacterCreator/CameraStates/vShooterMelee@CameraState.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b652964c1cf28a4a8e4a9136ecc2d6e
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/vShotgun.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c583ce0faa2747ffa0dbfaa9fe65811
+    m_Address: Assets/_downloadedassets/Inguz Media Studio/The Beautiful Portals
+      VFX/Sprites/ForceShieldPattern.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a20dc24d1fa089b4e989d195dc6b8121
+    m_Address: Assets/Invector-3rdPersonController/Shooter/3DModels/Animations/Bow_Reload.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a33be1e1efa8ca14286b77d062313a4e
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/UIOnTop.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa5bbac58df167347a5a83e5bb713114
+    m_Address: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/UIOnTopShader.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9af28d8785ef82c08254d1bbeeb6466
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsnuaufbx/Maw j/MAW_diffuse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be5cb7e0a07d357b7836f6f566d19eea
+    m_Address: Assets/Rumble/RpgQuest/_launcher/FinalCanvas/GameVFX/Hi-Tech_heavy_infinite.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8e473ba49add7f49baf8301cdc243e0
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsnuaufbx/Maw j/MAW_normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca9f5fa95ffab41fb9a615ab714db018
+    m_Address: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d77e155beaf264b5da22eb66b7d5c9fd
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsnuaufbx/Maw j/MAW_glow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9d8b41638106c847abc9ed23e3fbc6c
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Animations/Switch@Off.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da281a6993a81efb0b5e2f42b7f743c3
+    m_Address: Assets/Rumble/RpgQuest/_launcher/ICons/MainPanelSetting.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd7e161d56cfdbc44b70452034f1423e
+    m_Address: Assets/Invector-FSMAIController/FSM/FSM Behaviours/FSM_Shooter.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfea19d1d34dd174d87195f78cb44ae7
+    m_Address: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/AudioSource/AudioSource.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2d001c80f14645f98338c1e13920a69
+    m_Address: Assets/_downloadedassets/Inguz Media Studio/The Beautiful Portals
+      VFX/Mesh/Cylinder_portal.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3265ab4bf004d28a9537516768c1c75
+    m_Address: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef1e0ea2c6b1cda42aed623e0eae7e61
+    m_Address: Assets/Invector-3rdPersonController/Add-ons/Parachute/Anims/Parachuting_Forward.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f42c1c9263f5c48a89824bdef3904085
+    m_Address: Assets/_downloadedassets/Inguz Media Studio/The Beautiful Portals
+      VFX/Materials/Rocks_formation_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f63fbd0ba70f1554c9dc5f893ff28546
+    m_Address: Assets/Invector-3rdPersonController/Shooter/Scripts/ThrowSystem/Animations/Throw_Animations.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f89c156ed0cb6614cadd160bd49c164c
+    m_Address: Assets/Rumble/Keep/Enchanted/UsedFromAquarius/Aquarius Max Character,
+      Scripts/Top_Planar_Shader_A1.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc03688fe57d340f8a38cd9d960a89c7
+    m_Address: Assets/Rumble/RpgQuest/fsmiai/fsnuaufbx/Maw j/Maw J Laygo.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe393ace9b354375a9cb14cdbbc28be4
+    m_Address: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff99acfa1d071974f8bb384261383187
+    m_Address: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Animations/WeakAttack_UnarmedA_v3.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 792b820a5867408a5a81fe3eb6c9bd8a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3a508a48d9f4736f28a177afe3033f52, type: 2}
+    - {fileID: 11400000, guid: 4b5b07d350837c5949ffc1cac165c58c, type: 2}
